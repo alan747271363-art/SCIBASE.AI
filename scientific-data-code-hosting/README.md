@@ -28,6 +28,7 @@ to executable environment readiness.
   environment readiness checks, and dataset diff logic.
 - `demo.py` - creates a temporary sample project and prints a manifest summary
   plus JSON-LD export.
+- `DEMO.md` - reviewer-facing command transcript and proof checklist.
 - `test_artifact_capsule.py` - unittest coverage for classification, manifests,
   metadata exports, FAIR findings, diffs, summaries, and invalid JSON previews.
 
